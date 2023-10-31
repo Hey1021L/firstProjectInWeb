@@ -1,0 +1,31 @@
+.header {
+  display: flex;
+
+  .el-input {
+    width: 180px;
+    margin-left: 20px;
+  }
+
+  .el-button {
+    margin-left: 20px;
+  }
+
+  margin: 20px 0;
+}
+
+.dialogPopup {
+  .el-form-item {
+    display: flex;
+  }
+}
+
+.table-item {
+  .el-table__row {
+    height: 63px;
+  }
+}
+
+.footer_pagination {
+  margin: 20px 0;
+  text-align: center;
+}

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 10001,
+      "facilityName": "设备1",
+      "encoding": "E001",
+      "model": "M001",
+      "batchDate": "2022-01-01",
+      "batchNumber": "B001",
+      "manufacturer": "制造商A",
+      "state": 3
+    },
+    {
+      "id": 10002,
+      "facilityName": "设备2",
+      "encoding": "E002",
+      "model": "M002",
+      "batchDate": "2022-02-01",
+      "batchNumber": "B002",
+      "manufacturer": "制造商A",
+      "state": 1
+    },
+    {
+      "id": 10003,
+      "facilityName": "设备3",
+      "encoding": "E003",
+      "model": "M003",
+      "batchDate": "2022-03-01",
+      "batchNumber": "B003",
+      "manufacturer": "制造商B",
+      "state": 1
+    },
+    {
+      "id": 10004,
+      "facilityName": "设备4",
+      "encoding": "E004",
+      "model": "M004",
+      "batchDate": "2022-04-01",
+      "batchNumber": "B004",
+      "manufacturer": "制造商B",
+      "state": 2
+    },
+    {
+      "id": 10005,
+      "facilityName": "设备5",
+      "encoding": "E005",
+      "model": "M005",
+      "batchDate": "2022-05-01",
+      "batchNumber": "B005",
+      "manufacturer": "制造商C",
+      "state": 1
+    },
+    {
+      "id": 10006,
+      "facilityName": "设备6",
+      "encoding": "E006",
+      "model": "M006",
+      "batchDate": "2022-06-01",
+      "batchNumber": "B006",
+      "manufacturer": "制造商C",
+      "state": 1
+    },
+    {
+      "id": 10007,
+      "facilityName": "设备7",
+      "encoding": "E007",
+      "model": "M007",
+      "batchDate": "2022-07-01",
+      "batchNumber": "B007",
+      "manufacturer": "制造商D",
+      "state": 3
+    },
+    {
+      "id": 10008,
+      "facilityName": "设备8",
+      "encoding": "E008",
+      "model": "M008",
+      "batchDate": "2022-08-01",
+      "batchNumber": "B008",
+      "manufacturer": "制造商D",
+      "state": 1
+    },
+    {
+      "id": 10009,
+      "facilityName": "设备9",
+      "encoding": "E009",
+      "model": "M009",
+      "batchDate": "2022-09-01",
+      "batchNumber": "B009",
+      "manufacturer": "制造商E",
+      "state": 2
+    },
+    {
+      "id": 10010,
+      "facilityName": "设备10",
+      "encoding": "E010",
+      "model": "M010",
+      "batchDate": "2022-10-01",
+      "batchNumber": "B010",
+      "manufacturer": "制造商E",
+      "state": 1
+    },
+    {
+      "id": 10011,
+      "facilityName": "设备11",
+      "encoding": "E011",
+      "model": "M011",
+      "batchDate": "2022-11-01",
+      "batchNumber": "B011",
+      "manufacturer": "制造商F",
+      "state": 2
+    }
+  ]
+  

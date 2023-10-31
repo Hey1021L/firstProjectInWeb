@@ -1,0 +1,101 @@
+[
+  {
+    "id": 10000,
+    "itemName": "蒋通讯有限责任公司",
+    "principal": "刘秀英",
+    "startDate": "2023/10/21 10:07:23",
+    "endDate": "2023/10/26 00:28:26",
+    "itemStatus": 1,
+    "introduce": ""
+  },
+  {
+    "id": 10001,
+    "itemName": "叶顾问有限责任公司",
+    "principal": "黎安琪",
+    "startDate": "2023/10/21 13:15:00",
+    "endDate": "2023/10/26 20:33:40",
+    "itemStatus": 1,
+    "introduce": ""
+  },
+  {
+    "id": 10002,
+    "itemName": "子韬有限责任公司",
+    "principal": "余子韬",
+    "startDate": "2023/10/21 10:25:07",
+    "endDate": "2023/10/26 02:59:39",
+    "itemStatus": 1,
+    "introduce": ""
+  },
+  {
+    "id": 10003,
+    "itemName": "武記物业代理有限责任公司",
+    "principal": "蒋致远",
+    "startDate": "2023/10/21 20:54:20",
+    "endDate": "2023/10/26 05:24:03",
+    "itemStatus": 1,
+    "introduce": ""
+  },
+  {
+    "id": 10004,
+    "itemName": "安琪玩具有限责任公司",
+    "principal": "廖睿",
+    "startDate": "2023/10/21 00:19:13",
+    "endDate": "2023/10/26 11:53:35",
+    "itemStatus": 1,
+    "introduce": ""
+  },
+  {
+    "id": 10005,
+    "itemName": "谭記有限责任公司",
+    "principal": "熊子异",
+    "startDate": "2023/10/21 10:59:51",
+    "endDate": "2023/10/26 09:35:09",
+    "itemStatus": 0,
+    "introduce": ""
+  },
+  {
+    "id": 10006,
+    "itemName": "璐技术有限责任公司",
+    "principal": "徐秀英",
+    "startDate": "2023/10/21 14:27:04",
+    "endDate": "2023/10/26 11:18:48",
+    "itemStatus": 0,
+    "introduce": ""
+  },
+  {
+    "id": 10007,
+    "itemName": "郑記食品有限责任公司",
+    "principal": "严宇宁",
+    "startDate": "2023/10/21 09:49:32",
+    "endDate": "2023/10/26 11:13:13",
+    "itemStatus": 0,
+    "introduce": ""
+  },
+  {
+    "id": 10008,
+    "itemName": "方記有限责任公司",
+    "principal": "谭岚",
+    "startDate": "2023/10/21 02:41:30",
+    "endDate": "2023/10/26 18:12:47",
+    "itemStatus": 0,
+    "introduce": ""
+  },
+  {
+    "id": 10009,
+    "itemName": "陶記有限责任公司",
+    "principal": "谭岚",
+    "startDate": "2023/10/21 05:40:59",
+    "endDate": "2023/10/26 08:14:38",
+    "itemStatus": 0,
+    "introduce": ""
+  },
+  {
+    "id": 10010,
+    "itemName": "云熙工业有限责任公司",
+    "principal": "莫云熙",
+    "startDate": "2023/10/21 08:37:03",
+    "endDate": "2023/10/26 06:47:50",
+    "itemStatus": 1,
+    "introduce": ""
+  }
+]

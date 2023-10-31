@@ -1,0 +1,112 @@
+[
+  {
+    "id": 10000,
+    "detectionName": "上海市",
+    "detectionAddress": "浦东新区橄榄路995号",
+    "power": 1.5,
+    "voltage": 228.0,
+    "energyState": 1,
+    "createTime": "2023/10/26 10:49:33",
+    "remark": null
+  },
+  {
+    "id": 10001,
+    "detectionName": "上海市",
+    "detectionAddress": "浦东新区健祥路413号",
+    "power": 293.0,
+    "voltage": 75.0,
+    "energyState": 0,
+    "createTime": "2023/10/26 13:00:17",
+    "remark": null
+  },
+  {
+    "id": 10002,
+    "detectionName": "成都市",
+    "detectionAddress": "成华区二仙桥东三路70号",
+    "power": 245.5,
+    "voltage": 116.0,
+    "energyState": 1,
+    "createTime": "2023/10/26 15:34:09",
+    "remark": null
+  },
+  {
+    "id": 10003,
+    "detectionName": "上海市",
+    "detectionAddress": "闵行区宾川路282号",
+    "power": 68.5999984741211,
+    "voltage": 96.0,
+    "energyState": 1,
+    "createTime": "2023/10/26 22:59:50",
+    "remark": null
+  },
+  {
+    "id": 10004,
+    "detectionName": "中山",
+    "detectionAddress": "京华商圈华夏街999号",
+    "power": 263.6000061035156,
+    "voltage": 96.0,
+    "energyState": 1,
+    "createTime": "2023/10/26 09:37:18",
+    "remark": null
+  },
+  {
+    "id": 10005,
+    "detectionName": "成都市",
+    "detectionAddress": "成华区二仙桥东三路656号",
+    "power": 267.6000061035156,
+    "voltage": 174.0,
+    "energyState": 1,
+    "createTime": "2023/10/26 15:41:24",
+    "remark": null
+  },
+  {
+    "id": 10006,
+    "detectionName": "北京市",
+    "detectionAddress": "西城区复兴门内大街753号",
+    "power": 235.10000610351563,
+    "voltage": 58.0,
+    "energyState": 0,
+    "createTime": "2023/10/26 14:31:46",
+    "remark": null
+  },
+  {
+    "id": 10007,
+    "detectionName": "广州市",
+    "detectionAddress": "越秀区中山二路948号",
+    "power": 18.0,
+    "voltage": 295.0,
+    "energyState": 0,
+    "createTime": "2023/10/26 04:22:14",
+    "remark": null
+  },
+  {
+    "id": 10008,
+    "detectionName": "东莞",
+    "detectionAddress": "珊瑚路16号",
+    "power": 267.20001220703127,
+    "voltage": 266.0,
+    "energyState": 1,
+    "createTime": "2023/10/26 12:44:08",
+    "remark": null
+  },
+  {
+    "id": 10009,
+    "detectionName": "成都市",
+    "detectionAddress": "锦江区红星路三段318号",
+    "power": 89.0999984741211,
+    "voltage": 266.0,
+    "energyState": 1,
+    "createTime": "2023/10/26 18:29:06",
+    "remark": null
+  },
+  {
+    "id": 10010,
+    "detectionName": "深圳",
+    "detectionAddress": "罗湖区蔡屋围深南东路426号",
+    "power": 234.6999969482422,
+    "voltage": 70.0,
+    "energyState": 0,
+    "createTime": "2023/10/26 02:33:51",
+    "remark": null
+  }
+]

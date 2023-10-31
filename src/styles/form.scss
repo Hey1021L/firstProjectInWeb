@@ -1,3 +1,4 @@
+//头部搜索栏
 .header {
   display: flex;
 
@@ -13,19 +14,55 @@
   margin: 20px 0;
 }
 
+//弹出层样式
 .dialogPopup {
   .el-form-item {
     display: flex;
   }
 }
 
+//分割线样式
+hr {
+  margin-bottom: 25px;
+  // border: 1px dotted black;
+  background-color: #ededed;
+  height: 1px;
+  border: 0;
+}
+
+//分割线
+.dotted-line::before {
+  content: "";
+  display: block;
+  height: 1px;
+  background: repeating-linear-gradient(
+    to right,
+    black 0,
+    black 2px,
+    transparent 2px,
+    transparent 4px
+  );
+}
+
+.el-dialog__header {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+//统一表格高度
 .table-item {
   .el-table__row {
     height: 63px;
   }
 }
 
+//页脚 分页
 .footer_pagination {
   margin: 20px 0;
   text-align: center;
+}
+
+//时间类型输入框
+.datetime {
+  width: 100% !important;
 }

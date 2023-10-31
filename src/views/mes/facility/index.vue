@@ -53,7 +53,7 @@
             <el-button type="danger">删除</el-button>
           </div>
           <div v-else-if="column.property === 'state'">
-            <el-select v-model="row[column.property]" disabled="true">
+            <el-select v-model="row[column.property]" disabled>
               <el-option label="空闲" value="1"></el-option>
               <el-option label="使用中" value="2"></el-option>
               <el-option label="故障" value="3"></el-option>
@@ -103,6 +103,7 @@
             </el-form-item>
             <el-form-item label="生产日期" :label-width="formLabelWidth">
               <el-date-picker
+                class="datetime"
                 v-model="addForm.batchDate"
                 type="date"
                 placeholder="选择日期"
@@ -142,9 +143,7 @@
 
       <div slot="footer" class="dialog-footer">
         <el-button @click="dialogFormVisible = false">取 消</el-button>
-        <el-button type="primary" @click="dialogFormVisible = false"
-          >确 定</el-button
-        >
+        <el-button type="primary" @click="confirm">确 定</el-button>
       </div>
     </el-dialog>
   </div>
@@ -242,6 +241,10 @@ export default {
     add() {
       this.dialogFormVisible = true;
     },
+    confirm() {
+      let time = new Date(this.addForm.batchDate).toLocaleString();
+      console.log(time);
+    },
   },
   mounted() {
     const testJson = require("@/assets/facility.json");
@@ -254,5 +257,4 @@ export default {
 };
 </script>
 
-<style>
-</style>
+<style></style>
